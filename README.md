@@ -20,13 +20,19 @@ Full E-Commerce RESTful APIs using NodeJs, Express and MongoDB.
 git clone https://github.com/mohamed3samy/shoppay-api.git
 ```
 
-2. Install dependencies
+2. Change the working directory
+
+```bash
+cd shoppay
+```
+
+3. Install dependencies
 
 ```bash
 npm install
 ```
 
-3. Run the app
+4. Run the app
 
 ```bash
 npm start
